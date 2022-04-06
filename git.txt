@@ -1,0 +1,18 @@
+config
+* git config --global user.name "thiagosheep1"
+* git config --global user.email "thiagoquinteto@gmail.com"
+
+validar
+*  git push --set-upstream origin master
+
+
+
+iniciando repositorio
+- git init
+
+adcionar arquivo
+git add "nome do arquivo"
+
+commit
+git commit -m "first commit"
+

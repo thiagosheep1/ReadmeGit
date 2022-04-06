@@ -2,17 +2,28 @@ config
 * git config --global user.name "thiagosheep1"
 * git config --global user.email "thiagoquinteto@gmail.com"
 
-validar
+autorizar o acesso
 *  git push --set-upstream origin master
 
 
 
 iniciando repositorio
-- git init
+*- git init
 
 adcionar arquivo
-git add "nome do arquivo"
+*git add "nome do arquivo" arquivo unico
+*git add .
+*git remote add origin https://github.com/thiagosheep1/ReadmeGit.git
 
 commit
-git commit -m "first commit"
+*git commit -m "first commit"
+
+alteração
+*git add .
+*git commit -m "first commit"
+*git push
+
+historico
+* git haflog
+
 

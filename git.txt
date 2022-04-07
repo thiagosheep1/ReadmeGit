@@ -18,12 +18,16 @@ adcionar arquivo
 commit
 *git commit -m "first commit"
 
-alteração
+subir alteração
 *git add .
 *git commit -m "first commit"
 *git push
 
 historico
-* git haflog
+* git reflog
 
+################ baixar atualizações #############
+# git fetch 
+git pull origin master 
+##################################################
 

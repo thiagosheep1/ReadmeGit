@@ -21,10 +21,15 @@ commit
 subir alteração
 *git add .
 *git commit -m "first commit"
-*git push
+*git push origin master
 
 historico
 * git reflog
+
+reset 
+git reset --hard "798ae77" id q aparece
+
+
 
 ################ baixar atualizações #############
 # git fetch 
